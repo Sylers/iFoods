@@ -1,4 +1,4 @@
-export const Slides = [
+export const slides = [
     {
         id: 1,
         image: require('./assets/images/splash_1.png'),
